@@ -54,12 +54,6 @@
 ## **Phase 3: Advanced OOP Concepts**
 ### 📌 Goal: Learn Python-specific OOP features.
 
-### 9️⃣ Magic (Dunder) Methods
-- `__str__` and `__repr__`.
-- `__eq__`, `__lt__`, `__gt__` (comparisons).
-- `__len__`, `__getitem__`, `__setitem__` (customizing behavior).
-- `__call__` (making objects callable).
-
 ### 🔟 Metaclasses & Custom Classes
 - What is a **metaclass**?
 - `type` as a metaclass.
@@ -69,10 +63,6 @@
 - What are descriptors?
 - `__get__`, `__set__`, `__delete__` methods.
 - Using descriptors for advanced attribute control.
-
-### 1️⃣2️⃣ Slots & Memory Optimization
-- What are `__slots__`?
-- Reducing memory footprint using `__slots__`.
 
 ---
 
@@ -94,24 +84,6 @@
 ### 1️⃣5️⃣ OOP with Async Programming
 - Using OOP with `async` and `await`.
 - Threading and Multiprocessing in an OOP manner.
-
----
-
-## **Phase 5: Deep Dive into Pythonic OOP**
-### 📌 Goal: Master advanced, Pythonic ways of writing OOP code.
-
-### 1️⃣6️⃣ Class Internals & MRO (Method Resolution Order)
-- How Python resolves methods in multiple inheritance.
-- Using `mro()` method.
-
-### 1️⃣7️⃣ OOP in Large-Scale Applications
-- Writing clean and scalable OOP code.
-- Organizing classes and modules.
-- Dependency injection in OOP.
-
-### 1️⃣8️⃣ Unit Testing OOP Code
-- Writing unit tests for classes using `unittest`.
-- Mocking objects in OOP tests.
 
 ---
 
