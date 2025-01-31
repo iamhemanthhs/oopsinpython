@@ -6,7 +6,6 @@
 ### 1️⃣ Introduction to OOP
 - What is OOP?
 - Why use OOP in Python?
-- Difference between Procedural, Functional, and OOP paradigms.
 
 ### 2️⃣ Classes & Objects
 - Creating a **class** (`class` keyword).
