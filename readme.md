@@ -49,24 +49,11 @@
 - Using name mangling for access control.
 - Pythonic way of data hiding.
 
----
 
-## **Phase 3: Advanced OOP Concepts**
-### 📌 Goal: Learn Python-specific OOP features.
-
-### 🔟 Metaclasses & Custom Classes
-- What is a **metaclass**?
-- `type` as a metaclass.
-- Customizing class creation using metaclasses.
-
-### 1️⃣1️⃣ Descriptors
-- What are descriptors?
-- `__get__`, `__set__`, `__delete__` methods.
-- Using descriptors for advanced attribute control.
 
 ---
 
-## **Phase 4: OOP in Practice**
+## **Phase 3: OOP in Practice**
 ### 📌 Goal: Apply OOP in real-world scenarios.
 
 ### 1️⃣3️⃣ Design Patterns in Python
@@ -76,12 +63,7 @@
 - Strategy Pattern.
 - Dependency Injection.
 
-### 1️⃣4️⃣ OOP with Dataclasses
-- Introduction to `dataclass` module.
-- When to use `@dataclass` instead of a normal class.
-- Immutability with `frozen=True`.
-
-### 1️⃣5️⃣ OOP with Async Programming
+### 1️⃣4 OOP with Async Programming
 - Using OOP with `async` and `await`.
 - Threading and Multiprocessing in an OOP manner.
 
