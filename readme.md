@@ -49,21 +49,19 @@
 - Using name mangling for access control.
 - Pythonic way of data hiding.
 
-
-
 ---
 
 ## **Phase 3: OOP in Practice**
 ### 📌 Goal: Apply OOP in real-world scenarios.
 
-### 1️⃣3️⃣ Design Patterns in Python
+### 9️⃣ Design Patterns in Python
 - Singleton Pattern.
 - Factory Pattern.
 - Observer Pattern.
 - Strategy Pattern.
 - Dependency Injection.
 
-### 1️⃣4 OOP with Async Programming
+### 🔟 OOP with Async Programming
 - Using OOP with `async` and `await`.
 - Threading and Multiprocessing in an OOP manner.
 
@@ -77,5 +75,3 @@
 ✅ **E-commerce System** – Classes for products, carts, orders.
 ✅ **Custom ORM (like SQLAlchemy)** – Use OOP to map Python objects to a database.
 ✅ **Game Development (OOP-Based)** – Create a small game using OOP concepts.
-
----
